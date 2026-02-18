@@ -1,1 +1,6 @@
-# folder_organizer_0218
+# Folder Organizer
+
+Fayllarni extension bo‘yicha papkalarga ajratadi.
+
+## Run
+python main.py
